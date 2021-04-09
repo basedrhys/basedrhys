@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Typing](https://64.media.tumblr.com/926ca19aeb10838ae824d1520b8e0ce8/tumblr_pbqjdvx83H1vmsnat_250.gifv)
+![Typing](https://j.gifs.com/xnOjG3.gif)
 
 ---
 
