@@ -4,9 +4,9 @@
 
 ---
 
-- :new_zealand: I am Rhys Compton, a Software/ML Engineer from New Zealand. 
-- :us: I'm currently living in the beautiful New York City, doing my Masters of Computer Science.
-- :evergreen_tree: :guitar: In my spare time I like hiking and playing acoustic/fingerstyle guitar.
+- :new_zealand: I am Rhys Compton, a ML Researcher/Engineer from New Zealand. 
+- :us: I'm currently living in the beautiful New York City, doing my Masters of Computer Science at NYU on a Fulbright scholarship.
+- :evergreen_tree: :guitar: In my spare time I like photography and playing acoustic/fingerstyle guitar.
 - :busts_in_silhouette: :hospital: I'm working on ML applications in Healthcare and am always happy to connect with likeminded folks so feel free to [reach out](https://www.rhyscompton.co.nz)!
 
 ---
